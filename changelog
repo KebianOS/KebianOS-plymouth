@@ -11,3 +11,5 @@ que se joda debian con su integracion obligatoria de el logo de debian 13 en el 
 1.5 {
 se añadio el postinst para una instalacion mas automatica}
 1.6 {fuentes cambiadas, se arreglo el error que al actualizar el sistema ponia las letras en cuadrados, lo cual era molesto, se arreglo cambiando la fuente}
+1.7 {vercion para provar el cambio de las fuentes :'v}
+1.8{vercion de puta madre}
