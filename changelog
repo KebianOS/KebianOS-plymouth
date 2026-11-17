@@ -8,3 +8,5 @@ se corrigieron ubicaciones de archivos y modificaron las configuraciones de el t
 se añadio el watermark.png vacio para que no tome el watermark de debian}
 1.4 {
 que se joda debian con su integracion obligatoria de el logo de debian 13 en el plymouth}
+1.5 {
+se añadio el postinst para una instalacion mas automatica}
