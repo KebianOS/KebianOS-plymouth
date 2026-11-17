@@ -10,3 +10,4 @@ se añadio el watermark.png vacio para que no tome el watermark de debian}
 que se joda debian con su integracion obligatoria de el logo de debian 13 en el plymouth}
 1.5 {
 se añadio el postinst para una instalacion mas automatica}
+1.6 {fuentes cambiadas, se arreglo el error que al actualizar el sistema ponia las letras en cuadrados, lo cual era molesto, se arreglo cambiando la fuente}
