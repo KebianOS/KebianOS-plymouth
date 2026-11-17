@@ -1,0 +1,61 @@
+plymouth-kebianos (1.9) stable; urgency=medium
+
+    * Se cambio el formato de empaquetado a el estandar de debian
+    * Se eliminaron los archivos de el tema de Ubuntu
+    * Se paso a usar el tema BGRT de debian
+
+ -- DannyXD300 <danny.mg302@gmail.com>  Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.8) stable; urgency=high
+
+    * Vercion de puta madre
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.7) unstable; urgency=high
+
+    * Vercion de prueva para el cambio de las fuentes
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.6) unstable; urgency=high
+
+    * Se cambiaron las fuentes usadas por defecto para solucionar un problema al mostrar las fuentes de Ubuntu
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.5) stable; urgency=medium
+
+    * Se añadio el postinst de instalacion automatica
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.4) stable; urgency=medium
+
+    * Que se joda debian con su secuestro de el plymouth y su icono
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -500
+
+plymouth-kebinaos (1.3) stable; urgency=medium
+
+    * Se añadio el Watermark vacio para que no tome el icono de debian
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.2) stable; urgency=medium
+
+    * Se corrigieron las ubicaciones de los archivos
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.1) stable; urgency=medium
+
+    * Se copio el tema de Ubuntu
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500
+
+plymouth-kebianos (1.0) stable; urgency=medium
+
+    * Se creo el primer Build.
+
+ -- DannyXD300 <danny.mg302@gmail.com> Tue, 17 Nov 2026 19:00:00 -0500

@@ -1,0 +1,8 @@
+Package: plymouth-kebianos
+Version: 1.9
+Architecture: all
+Maintainer: Daniel <danny.mg302@gmail.com.com>
+Installed-Size: 9
+Section: admin
+Priority: optional
+Description: Tema de Plymouth de KebianOS

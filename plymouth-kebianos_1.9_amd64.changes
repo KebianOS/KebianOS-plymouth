@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 17 Nov 2026 19:00:00 -0500
+Source: plymouth-kebianos
+Binary: plymouth-kebianos
+Architecture: all
+Version: 1.9
+Distribution: stable
+Urgency: medium
+Maintainer: Daniel <danny.mg302@gmail.com.com>
+Changed-By: DannyXD300 <danny.mg302@gmail.com>
+Description:
+ plymouth-kebianos - Tema de Plymouth de KebianOS
+Changes:
+ plymouth-kebianos (1.9) stable; urgency=medium
+ .
+     * Se cambio el formato de empaquetado a el estandar de debian
+     * Se eliminaron los archivos de el tema de Ubuntu
+     * Se paso a usar el tema BGRT de debian
+Checksums-Sha1:
+ a8aa5e170b887e777b2bd06d435d7b4482b19346 1844 plymouth-kebianos_1.9_all.deb
+ 42ded995caf0d0e02982af4fb3089ff50b42aabf 5060 plymouth-kebianos_1.9_amd64.buildinfo
+Checksums-Sha256:
+ c8012e9af0daf291286f7155d1cb8e2ee50e238dce5cd87d03458830ecd2598b 1844 plymouth-kebianos_1.9_all.deb
+ fcc6b8bedb1ed0b3b8f2d42d16b860f5603f9ca0762c80613f4cffc446453bef 5060 plymouth-kebianos_1.9_amd64.buildinfo
+Files:
+ ebac6e117157e6862c6181d2a42b5a5c 1844 admin optional plymouth-kebianos_1.9_all.deb
+ 249c70fb2f081590eb6b6b59541728b8 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo
