@@ -11,7 +11,7 @@ Checksums-Sha256:
  0df4fb31c5436a381f279f8b510689d7ccb22ef552a2405465b6b80af9a63e2b 1824 plymouth-kebianos_1.9_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 17 Nov 2026 19:03:38 -0500
+Build-Date: Tue, 17 Nov 2026 19:04:30 -0500
 Installed-Build-Depends:
  autoconf (= 2.72-3.1),
  automake (= 1:1.17-4),

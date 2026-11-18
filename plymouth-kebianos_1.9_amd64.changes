@@ -18,10 +18,10 @@ Changes:
      * Se paso a usar el tema BGRT de debian
 Checksums-Sha1:
  60156684fb91e10713397af586ec7a47341dc27d 1824 plymouth-kebianos_1.9_all.deb
- 85b859bb9175304f00ff19e522f36e5e7536c04f 5060 plymouth-kebianos_1.9_amd64.buildinfo
+ 8f35b1768143bc495bba5002c3b7bc8b2f7f7954 5060 plymouth-kebianos_1.9_amd64.buildinfo
 Checksums-Sha256:
  0df4fb31c5436a381f279f8b510689d7ccb22ef552a2405465b6b80af9a63e2b 1824 plymouth-kebianos_1.9_all.deb
- ae4d1af8c015868bf8f2bb664c035605675bf0da36c131048c4f0775e59d08e6 5060 plymouth-kebianos_1.9_amd64.buildinfo
+ 98d78ae365e53553c9a5e8fe5ae7edf7fe7f307e858b10ff833d59b465d3e5c3 5060 plymouth-kebianos_1.9_amd64.buildinfo
 Files:
  99f91b20ac704be2d494fbf564183c04 1824 admin optional plymouth-kebianos_1.9_all.deb
- e2fd87dc2958d6bdc4503ac58882a5b8 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo
+ 9fdb3e5ec51bd2378d82c43cdd6c0d9f 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo
