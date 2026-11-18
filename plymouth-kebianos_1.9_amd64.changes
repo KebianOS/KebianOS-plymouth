@@ -7,7 +7,7 @@ Version: 1.9
 Distribution: stable
 Urgency: medium
 Maintainer: Daniel <danny.mg302@gmail.com.com>
-Changed-By: DannyXD300 <danny.mg302@gmail.com>
+Changed-By: Daniel <danny.mg302@gmail.com>
 Description:
  plymouth-kebianos - Tema de Plymouth de KebianOS
 Changes:
@@ -17,11 +17,11 @@ Changes:
      * Se eliminaron los archivos de el tema de Ubuntu
      * Se paso a usar el tema BGRT de debian
 Checksums-Sha1:
- 5fe3e39c1df2fcfdf8c3477c66ab1cb906d2c290 1848 plymouth-kebianos_1.9_all.deb
- 28f4c082cd817ba1a1decb976480fc3b3bc3a711 5060 plymouth-kebianos_1.9_amd64.buildinfo
+ 651de8871f1f11de8736575ca7dcefacd2f16667 1820 plymouth-kebianos_1.9_all.deb
+ 68e3e64b8bb2f3a5333ad78dfcd65ce13efd24f2 5060 plymouth-kebianos_1.9_amd64.buildinfo
 Checksums-Sha256:
- f0ef32109b6c218f233af31999eecec7ec927f2c267af8e886639fb5e2059ec0 1848 plymouth-kebianos_1.9_all.deb
- 4638711ef6c6885ce58e548c025afa0d5f57a34c3ea80e47fe6a95aa13b87e79 5060 plymouth-kebianos_1.9_amd64.buildinfo
+ e88b886c0ea929f39820996fe0530de631665e0d627e37da2606171cdd7d8c41 1820 plymouth-kebianos_1.9_all.deb
+ 59d54920b2bcdf343069b3ec5a2277628f95f1a93966848b623bace5679f72bd 5060 plymouth-kebianos_1.9_amd64.buildinfo
 Files:
- ec7e3d2efdd05c4fc257410330307ddc 1848 admin optional plymouth-kebianos_1.9_all.deb
- 3db704e236f636a77ae10980b8556470 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo
+ 5fead3a50e29ecb6e4abe108451d15ea 1820 admin optional plymouth-kebianos_1.9_all.deb
+ a3f52c1b69297c0457cfa8948b9f41e0 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo
