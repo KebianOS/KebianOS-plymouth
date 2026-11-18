@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Tue, 17 Nov 2026 19:00:00 -0500
+Date: Tue, 17 Nov 2026 07:02:00 -0500
 Source: plymouth-kebianos
 Binary: plymouth-kebianos
 Architecture: all
@@ -17,11 +17,11 @@ Changes:
      * Se eliminaron los archivos de el tema de Ubuntu
      * Se paso a usar el tema BGRT de debian
 Checksums-Sha1:
- 651de8871f1f11de8736575ca7dcefacd2f16667 1820 plymouth-kebianos_1.9_all.deb
- 68e3e64b8bb2f3a5333ad78dfcd65ce13efd24f2 5060 plymouth-kebianos_1.9_amd64.buildinfo
+ 60156684fb91e10713397af586ec7a47341dc27d 1824 plymouth-kebianos_1.9_all.deb
+ 85b859bb9175304f00ff19e522f36e5e7536c04f 5060 plymouth-kebianos_1.9_amd64.buildinfo
 Checksums-Sha256:
- e88b886c0ea929f39820996fe0530de631665e0d627e37da2606171cdd7d8c41 1820 plymouth-kebianos_1.9_all.deb
- 59d54920b2bcdf343069b3ec5a2277628f95f1a93966848b623bace5679f72bd 5060 plymouth-kebianos_1.9_amd64.buildinfo
+ 0df4fb31c5436a381f279f8b510689d7ccb22ef552a2405465b6b80af9a63e2b 1824 plymouth-kebianos_1.9_all.deb
+ ae4d1af8c015868bf8f2bb664c035605675bf0da36c131048c4f0775e59d08e6 5060 plymouth-kebianos_1.9_amd64.buildinfo
 Files:
- 5fead3a50e29ecb6e4abe108451d15ea 1820 admin optional plymouth-kebianos_1.9_all.deb
- a3f52c1b69297c0457cfa8948b9f41e0 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo
+ 99f91b20ac704be2d494fbf564183c04 1824 admin optional plymouth-kebianos_1.9_all.deb
+ e2fd87dc2958d6bdc4503ac58882a5b8 5060 admin optional plymouth-kebianos_1.9_amd64.buildinfo

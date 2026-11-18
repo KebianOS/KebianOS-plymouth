@@ -4,14 +4,14 @@ Binary: plymouth-kebianos
 Architecture: all
 Version: 1.9
 Checksums-Md5:
- 5fead3a50e29ecb6e4abe108451d15ea 1820 plymouth-kebianos_1.9_all.deb
+ 99f91b20ac704be2d494fbf564183c04 1824 plymouth-kebianos_1.9_all.deb
 Checksums-Sha1:
- 651de8871f1f11de8736575ca7dcefacd2f16667 1820 plymouth-kebianos_1.9_all.deb
+ 60156684fb91e10713397af586ec7a47341dc27d 1824 plymouth-kebianos_1.9_all.deb
 Checksums-Sha256:
- e88b886c0ea929f39820996fe0530de631665e0d627e37da2606171cdd7d8c41 1820 plymouth-kebianos_1.9_all.deb
+ 0df4fb31c5436a381f279f8b510689d7ccb22ef552a2405465b6b80af9a63e2b 1824 plymouth-kebianos_1.9_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 17 Nov 2026 19:00:13 -0500
+Build-Date: Tue, 17 Nov 2026 19:03:38 -0500
 Installed-Build-Depends:
  autoconf (= 2.72-3.1),
  automake (= 1:1.17-4),
@@ -172,4 +172,4 @@ Environment:
  LC_PAPER="es_CO.UTF-8"
  LC_TELEPHONE="es_CO.UTF-8"
  LC_TIME="es_CO.UTF-8"
- SOURCE_DATE_EPOCH="1794960000"
+ SOURCE_DATE_EPOCH="1794916920"
